@@ -13,7 +13,7 @@ Complete Laravel setup with Repository Pattern, Service Layer, Jetstream, Inerti
 Create a new Laravel project with everything pre-configured:
 
 ```bash
-composer create-project diegocopat/laravel-jetstream-starter my-app
+composer create-project diegocopat/laravel-repository-pattern my-app
 cd my-app
 php artisan migrate --seed
 npm run dev
